@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlexWallet</string>
+    <string name="facebook_app_id">371542895986915</string>
+    <string name="fb_login_protocol_scheme">fb371542895986915</string>
+    <string name="facebook_client_token">votre_vrai_client_token_ici</string>
+</resources> 

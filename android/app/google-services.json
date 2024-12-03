@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "213180313712",
+    "project_id": "flex-wallet",
+    "storage_bucket": "flex-wallet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213180313712:android:a14de7ee49e55d823b44b5",
+        "android_client_info": {
+          "package_name": "com.example.flex_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213180313712-1mh77i2dnd9f3qs7r8rhbm9ae8u0kovn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flex_wallet",
+            "certificate_hash": "ed04de1309d4b649c87edd70d170f87c0598b589"
+          }
+        },
+        {
+          "client_id": "213180313712-kn00q6mimgrkbp3o1k494r36vuskgpuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD6T5WWZXmJA3-7YyP6wU3SnKcpSERFWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213180313712-kn00q6mimgrkbp3o1k494r36vuskgpuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213180313712-1l9pi9papkmgrna7tbr5gv558rtvb067.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "FlexWallet.flexWalletGet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213180313712:android:785200bdbe8dd48a3b44b5",
+        "android_client_info": {
+          "package_name": "com.flexwallet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213180313712-j9m5fu81hjv6glgh6e2sln36dpol959j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flexwallet.app",
+            "certificate_hash": "511e04344fc871adb12e645d9568f962002f1f04"
+          }
+        },
+        {
+          "client_id": "213180313712-kn00q6mimgrkbp3o1k494r36vuskgpuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD6T5WWZXmJA3-7YyP6wU3SnKcpSERFWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213180313712-kn00q6mimgrkbp3o1k494r36vuskgpuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213180313712-1l9pi9papkmgrna7tbr5gv558rtvb067.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "FlexWallet.flexWalletGet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

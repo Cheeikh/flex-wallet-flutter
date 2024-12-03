@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">213180313712-kn00q6mimgrkbp3o1k494r36vuskgpuf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">213180313712</string>
+    <string name="google_api_key" translatable="false">AIzaSyAD6T5WWZXmJA3-7YyP6wU3SnKcpSERFWc</string>
+    <string name="google_app_id" translatable="false">1:213180313712:android:a14de7ee49e55d823b44b5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAD6T5WWZXmJA3-7YyP6wU3SnKcpSERFWc</string>
+    <string name="google_storage_bucket" translatable="false">flex-wallet.firebasestorage.app</string>
+    <string name="project_id" translatable="false">flex-wallet</string>
+</resources>

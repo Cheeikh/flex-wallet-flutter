@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: recurring-transfer-scheduler
+
+transfer:
+  api:
+    url: ${TRANSFER_API_URL:http://localhost:8081/api}
+
+firebase:
+  project-id: flex-wallet
+
+logging:
+  level:
+    com.transfer: INFO
+    org.springframework.web: INFO 
